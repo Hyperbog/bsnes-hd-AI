@@ -257,3 +257,4 @@ B : 2100    % bg 2 includes dashboard (non-ws) and far away bg (ws):
 s :    1    % unlimited sprites (not perfect, but worth trying) %
 m :    0    % no ws markers %
 ```
+# Hyperbog
